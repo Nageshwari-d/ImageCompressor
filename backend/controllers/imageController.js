@@ -1,5 +1,6 @@
 import sharp from 'sharp';
-import ImageData from '../models/ImageData.js';
+import ImageData from "../models/imagedata.js";
+
 import path from 'path';
 import fs from 'fs';
 
